@@ -1,0 +1,22 @@
+{
+    "name": "rodrigo/digital-cep",
+    "description": "Busca de cep online",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Rodrigo\\DigitalCep\\Wead": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rodrigo Moraes",
+            "email": "rmoraes.engenharia@hotmail.com"
+        }
+    ],
+    "require": {
+        "php":">=7.2.0"
+    }
+}
